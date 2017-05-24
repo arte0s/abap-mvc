@@ -1,5 +1,5 @@
 # abap_omvc
-Examle program for demonstration of MVC
+Examle for demonstration MVC implementation 
 
 # Local classes
 
