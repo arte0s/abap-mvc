@@ -6,39 +6,42 @@ Examle program for demonstration of MVC
 ## Class CL_CONTR - controller
 
 Methods:
-CLEAR_FORM
-CONSTRUCTOR 
-LINE_SEL 
-REMOVE_ITEM 
-SAVE_ITEM 
+- CLEAR_FORM
+- CONSTRUCTOR 
+- LINE_SEL 
+- REMOVE_ITEM 
+- SAVE_ITEM 
 
 ## Class CL_MODEL - model
 
 Methods:
-GET_ALL 
-GET_INDEX 
-MODIFIED 
-REMOVE 
-SET_INDEX 
+- GET_ALL
+- GET_INDEX 
+- MODIFIED 
+- REMOVE 
+- SET_INDEX 
 
 ## Class CL_VIEW_FORM - view Form
 
-CONSTRUCTOR 
-DRAW 
-LINE_SEL_EVENT 
+Methods:
+- CONSTRUCTOR 
+- DRAW 
+- LINE_SEL_EVENT 
 
 ## Class CL_VIEW_TABLE - view Table
 
-CONSTRUCTOR 
-DRAW 
-LINE_SEL_EVENT 
+Methods:
+- CONSTRUCTOR
+- DRAW 
+- LINE_SEL_EVENT 
 
 ## Class CL_FRAME_STAT - draw frame
 
-END 
-LINE 
-MIDDLE 
-START 
+Methods:
+- END
+- LINE 
+- MIDDLE 
+- START 
 
 ## Output
 
