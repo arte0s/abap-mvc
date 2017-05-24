@@ -1,9 +1,9 @@
 # abap_omvc
 Examle program for demonstration of MVC
 
-#Local classes
+# Local classes
 
-##Class CL_CONTR - controller
+## Class CL_CONTR - controller
 
 ->CLEAR_FORM 
 ->CONSTRUCTOR 
@@ -11,7 +11,7 @@ Examle program for demonstration of MVC
 ->REMOVE_ITEM 
 ->SAVE_ITEM 
 
-##Class CL_MODEL - model
+## Class CL_MODEL - model
 
 ->GET_ALL 
 ->GET_INDEX 
@@ -19,19 +19,19 @@ Examle program for demonstration of MVC
 ->REMOVE 
 ->SET_INDEX 
 
-##Class CL_VIEW_FORM - view Form
+## Class CL_VIEW_FORM - view Form
 
 ->CONSTRUCTOR 
 ->DRAW 
 ->LINE_SEL_EVENT 
 
-##Class CL_VIEW_TABLE - view Table
+## Class CL_VIEW_TABLE - view Table
 
 ->CONSTRUCTOR 
 ->DRAW 
 ->LINE_SEL_EVENT 
 
-##Class CL_FRAME_STAT - draw frame
+## Class CL_FRAME_STAT - draw frame
 
 ->END 
 ->LINE 
